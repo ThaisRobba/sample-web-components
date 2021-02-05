@@ -1,0 +1,20 @@
+{
+  "name": "webcomponents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "vue": "cd shell && npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^4.0.2",
+    "direflow-cli": "^3.5.1",
+    "react": "^17.0.1",
+    "react-web-component": "^2.0.1",
+    "solid": "^0.2.1",
+    "vue-cli": "^2.9.6"
+  }
+}
